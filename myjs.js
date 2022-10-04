@@ -1,1 +1,1 @@
-//alert('Hello, Syuya!');
+alert('Hello, Syuya!');
