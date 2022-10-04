@@ -2,6 +2,6 @@ function sayhello61(){
  alert('Hello, Function!');
 }
 
-function sayhello61(){
+function sayhello62(){
  alert('Goodbye.');
 }
