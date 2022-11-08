@@ -1,3 +1,3 @@
 function imgchange688(){
-document.getElementById('josai').innerHTML='./image/城西大学マスコット.png';
+document.getElementById('who688').innerHTML='<./image/城西大学マスコット.png'>;
 }
