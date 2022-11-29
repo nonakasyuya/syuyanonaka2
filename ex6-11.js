@@ -10,10 +10,10 @@ document.itimoji.hyouji.value=str.substr(0,cnt+1);}
 else{
 //すべて表示されたら、空文字に戻す
 document.itimoji.hyouji.value="";}}
-function startfnc(){
+//function startfnc(){
 //関数hyoji()を1000ミリ秒間隔で呼び出す
-setInterval("timer()",500);
-}
+//setInterval("timer()",500);
+//}
 function mes(){
 alert("3秒経ちました！")
 }
