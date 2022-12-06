@@ -1,9 +1,9 @@
 function imgchange3(){
- document.getElementById('logo').src=
+ document.getElementById('logo2').src=
 './image/城西大学ロゴ.png';
 }
 function imgchange4(){
- document.getElementById('logo').src=
+ document.getElementById('logo2').src=
 './image/城西大学野球部.jpg';
 }
 
