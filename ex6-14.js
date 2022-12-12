@@ -22,9 +22,6 @@ document.getElementById('logo2').src=
 // setTimeout("imgchange6,200")
 //}
 
- 
-}
-
 
 
 
