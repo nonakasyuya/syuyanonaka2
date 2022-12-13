@@ -4,16 +4,17 @@
 //}
 function imgchange4(){
  if(logo2='./image/城西大学野球部.jpg'){
- document.getElementById('logo2').src=
-'./image/城西大学ロゴ.png';}
+ document.getElementById('logo2').src=='./image/城西大学ロゴ.png';}
  else{
- setTimeout("imgchange5(),3000");
- }
+ setTimeout("imgchange5(),3000");}
  }
  
 function imgchange5(){
-document.getElementById('logo2').src=
-'./image/城西大学野球部.jpg'
+document.getElementById('logo2').src=='./image/城西大学野球部.jpg'
+}
+
+function startfnc14(){
+setInterval("imgchange4,0")
 }
 
 //function imagchange5(){
