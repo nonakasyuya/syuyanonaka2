@@ -21,7 +21,7 @@ setInterval("imgchange4",1000)
 
 //function imagchange5(){
   //document.getElementById('logo2').src=
-'//./image/城西大学ロゴ.png';
+//'./image/城西大学ロゴ.png';
 // setTimeout("imgchange6,200")
 //}
 
