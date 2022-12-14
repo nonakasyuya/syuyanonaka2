@@ -3,8 +3,9 @@
 //'./image/城西大学ロゴ.png';
 //}
 function imgchange4(){
+ var src14='./image/城西大学野球部.jpg';
  if(document.getElementById('logo2').src=='./image/城西大学ロゴ.png'){
- document.getElementById('logo2').src='./image/城西大学野球部.jpg';}
+ document.getElementById('logo2').src=src14;}
  else{
  setTimeout("imgchange5(),3000");}
  }
