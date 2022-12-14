@@ -8,7 +8,7 @@ function imgchange4(){
  if(cfn14=='./image/城西大学ロゴ.png'){
  document.getElementById('logo2').src='./image/城西大学野球部.jpg';}
  else{
- setTimeout("imgchange5(),3000");}
+ setTimeout("imgchange5()",3000);}
  }
  
 function imgchange5(){
