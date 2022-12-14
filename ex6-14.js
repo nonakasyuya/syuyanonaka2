@@ -14,7 +14,7 @@ document.getElementById('logo2').src='./image/城西大学ロゴ.png'
 }
 
 function startfnc14(){
-setInterval("imgchange4,0")
+setInterval("imgchange4",0)
 }
 
 //function imagchange5(){
