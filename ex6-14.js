@@ -11,7 +11,7 @@ function imgchange4(){
  }
  
 function imgchange5(){
-document.getElementById('logo2').src="./image/城西大学ロゴ.png"
+document.getElementById('logo2').src="./image/城西大学ロゴ.png";
 }
 
 function startfnc14(){
