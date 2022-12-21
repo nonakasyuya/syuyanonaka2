@@ -1,11 +1,11 @@
 function add711(){
 var x =document.getElementById('nen711').value;
-var keisan711=Number(x) % 4;
+alert(Number(x) % 4);
 
-if(keisan711==0){
- alert('うるう年');
- }
- else{
- alert('平年');
- }
-}
+//if(keisan711==0){
+// alert('うるう年');
+// }
+// else{
+// alert('平年');
+// }
+//}
